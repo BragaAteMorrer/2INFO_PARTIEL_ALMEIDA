@@ -1,0 +1,78 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings*.json
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Tooling
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.o
+
+# Roslyn specific ignore rules
+project.lock.json
+project.fragment.lock.json
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Files built by Visual Studio, VS Code, Rider, etc.
+*_i.c
+*_p.c
+*_pi.c
+*_pb.c
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Web Files
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Pp]ublish/
